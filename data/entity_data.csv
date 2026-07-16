@@ -1,0 +1,156 @@
+financial_year,company_name,kpi_id,attribute_name,parameter_name,value,unit,last_updated_timestamp
+,,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,12.0,tCO2e,2026-07-14 02:32:21
+,,EN_01,Energy Footprint,Total Energy Consumption,300.0,Joules,2026-07-14 02:32:21
+,,EN_02,Energy Footprint,Share of Renewable Energy,6.67,%,2026-07-14 02:32:21
+,,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,12.0,tCO2e,2026-07-14 02:32:25
+,,WAT_01,Water Footprint,Total Water Consumption,20.0,KL,2026-07-14 02:32:25
+,,EN_02,Energy Footprint,Share of Renewable Energy,6.67,%,2026-07-14 02:32:25
+,,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,12.0,tCO2e,2026-07-14 02:32:28
+,,WAT_01,Water Footprint,Total Water Consumption,20.0,KL,2026-07-14 02:32:28
+,,WAT_04,Water Footprint,Water Discharge (by Treatment Level),300.0,KL,2026-07-14 02:32:28
+,,EN_02,Energy Footprint,Share of Renewable Energy,6.67,%,2026-07-14 02:32:28
+2023-24,,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,67.0,tCO2e,2026-07-14 02:33:20
+2023-24,,GHG_02,Greenhouse Gas (GHG) Footprint,Scope 2 Emissions,25.0,tCO2e,2026-07-14 02:33:20
+2023-24,,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,275.0,tCO2e,2026-07-14 02:38:38
+2025-26,VIGROS,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,0.0,tCO2e,2026-07-14 02:57:20
+2025-26,VIGROS,GHG_02,Greenhouse Gas (GHG) Footprint,Scope 2 Emissions,250.0,tCO2e,2026-07-14 02:57:20
+2025-26,VIGROS,GHG_03,Greenhouse Gas (GHG) Footprint,GHG Intensity (Adjusted Revenue),8625.0,tCO2e/INR Crore,2026-07-14 02:57:20
+2025-26,VIGROS,GHG_04,Greenhouse Gas (GHG) Footprint,GHG Intensity (Physical Output),34500.0,tCO2e/Unit,2026-07-14 02:57:20
+2023-24,VIGROS,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,70.0,tCO2e,2026-07-14 03:01:18
+2023-24,VIGROS,GHG_02,Greenhouse Gas (GHG) Footprint,Scope 2 Emissions,250.0,tCO2e,2026-07-14 03:01:18
+2023-24,VIGROS,GHG_03,Greenhouse Gas (GHG) Footprint,GHG Intensity (Adjusted Revenue),12.8,tCO2e/INR Crore,2026-07-14 03:01:18
+2023-24,VIGROS,GHG_04,Greenhouse Gas (GHG) Footprint,GHG Intensity (Physical Output),0.0032,tCO2e/Unit,2026-07-14 03:01:18
+2023-24,VIGROS,WAT_01,Water Footprint,Total Water Consumption,60000.0,KL,2026-07-14 03:01:18
+2023-24,VIGROS,WAT_02,Water Footprint,Water Intensity (Adjusted Revenue),2400.0,KL/INR Crore,2026-07-14 03:01:18
+2023-24,VIGROS,WAT_04,Water Footprint,Water Discharge (by Treatment Level),21.0,KL,2026-07-14 03:01:18
+2023-24,VIGROS,EN_01,Energy Footprint,Total Energy Consumption,78.0,Joules,2026-07-14 03:01:18
+2023-24,VIGROS,EN_03,Energy Footprint,Energy Intensity (Adjusted Revenue),3.12,Joules/INR Crore,2026-07-14 03:01:18
+2023-24,VIGROS,WST_01,Embracing Circularity - Waste Management,Plastic Waste Generated,25.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_02,Embracing Circularity - Waste Management,E-waste Generated,32.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_03,Embracing Circularity - Waste Management,Bio-medical Waste Generated,4.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_04,Embracing Circularity - Waste Management,Construction & Demolition Waste,12.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_05,Embracing Circularity - Waste Management,Battery Waste Generated,2.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_06,Embracing Circularity - Waste Management,Radioactive Waste Generated,12.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_07,Embracing Circularity - Waste Management,Other Hazardous Waste,14.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_08,Embracing Circularity - Waste Management,Other Non-hazardous Waste,1.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_09,Embracing Circularity - Waste Management,Total Waste Generated,102.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_10,Embracing Circularity - Waste Management,Waste Intensity (Adjusted Revenue),4.08,MT/INR Crore,2026-07-14 03:01:18
+2023-24,VIGROS,WST_12,Embracing Circularity - Waste Management,Waste Recycled/Recovered,250.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,WST_13,Embracing Circularity - Waste Management,Waste Disposed (by Method),10.0,MT,2026-07-14 03:01:18
+2023-24,VIGROS,EMP_02,Enhancing Employee Wellbeing and Safety,Permanent Disabilities,0.0,Number,2026-07-14 03:01:18
+2023-24,VIGROS,EMP_04,Enhancing Employee Wellbeing and Safety,Fatalities,2.0,Number,2026-07-14 03:01:18
+2023-24,VIGROS,GEN_03,Enabling Gender Diversity in Business,POSH Training Coverage,90.0,% of workforce,2026-07-14 03:01:18
+2023-24,VIGROS,GEN_04,Enabling Gender Diversity in Business,POSH Complaints Upheld/Resolved,0.0,Number,2026-07-14 03:01:18
+2023-24,VIGROS,INC_01,Enabling Inclusive Development,Input Sourcing from MSME/Local Suppliers,30.0,% of Total Procurement,2026-07-14 03:01:18
+2023-24,VIGROS,INC_02,Enabling Inclusive Development,Job Creation in Small Towns,25.0,% of New Hires,2026-07-14 03:01:18
+2023-24,VIGROS,FAIR_01,Fairness in Engaging with Customers and Suppliers,Data Breaches involving Customer Data,0.0,% of customer base affected,2026-07-14 03:01:18
+2023-24,VIGROS,OPEN_01,Openness of Business,Concentration of Purchases (Trading Houses/Related Parties),12.0,%,2026-07-14 03:01:18
+2023-24,VIGROS,OPEN_02,Openness of Business,Concentration of Sales (Trading Houses/Related Parties),52.0,%,2026-07-14 03:01:18
+2023-24,VIGROS,OPEN_03,Openness of Business,Related Party Transactions (RPT) - Purchases,23.0,% of Total,2026-07-14 03:01:18
+2023-24,VIGROS,OPEN_04,Openness of Business,RPT - Sales,25.0,% of Total,2026-07-14 03:01:18
+2023-24,VIGROS,OPEN_05,Openness of Business,RPT - Loans & Advances,12.0,% of Total,2026-07-14 03:01:18
+2023-24,VIGROS,OPEN_06,Openness of Business,RPT - Investments,12.0,% of Total,2026-07-14 03:01:18
+2025-26,syndi,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,48.0,tCO2e,2026-07-14 11:30:52
+2025-26,syndi,GHG_02,Greenhouse Gas (GHG) Footprint,Scope 2 Emissions,21.0,tCO2e,2026-07-14 11:30:52
+2025-26,syndi,GHG_04,Greenhouse Gas (GHG) Footprint,GHG Intensity (Physical Output),0.138,tCO2e/Unit,2026-07-14 11:30:52
+2025-26,gb,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,105.0,tCO2e,2026-07-14 23:10:48
+2025-26,gb,GHG_02,Greenhouse Gas (GHG) Footprint,Scope 2 Emissions,63.0,tCO2e,2026-07-14 23:10:48
+2025-26,gb,GHG_03,Greenhouse Gas (GHG) Footprint,GHG Intensity (Adjusted Revenue),6.72,tCO2e/INR Crore,2026-07-14 23:10:48
+2025-26,gb,GHG_04,Greenhouse Gas (GHG) Footprint,GHG Intensity (Physical Output),0.0004,tCO2e/Unit,2026-07-14 23:10:48
+2025-26,gb,WAT_01,Water Footprint,Total Water Consumption,250.0,KL,2026-07-14 23:10:48
+2025-26,gb,WAT_02,Water Footprint,Water Intensity (Adjusted Revenue),10.0,KL/INR Crore,2026-07-14 23:10:48
+2025-26,gb,WAT_03,Water Footprint,Water Intensity (Physical Output),0.0005,KL/Unit,2026-07-14 23:10:48
+2025-26,gb,WAT_04,Water Footprint,Water Discharge (by Treatment Level),32.0,KL,2026-07-14 23:10:48
+2025-26,gb,EN_01,Energy Footprint,Total Energy Consumption,55.0,Joules,2026-07-14 23:10:48
+2025-26,gb,EN_03,Energy Footprint,Energy Intensity (Adjusted Revenue),2.2,Joules/INR Crore,2026-07-14 23:10:48
+2025-26,gb,WST_01,Embracing Circularity - Waste Management,Plastic Waste Generated,25.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_02,Embracing Circularity - Waste Management,E-waste Generated,55.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_03,Embracing Circularity - Waste Management,Bio-medical Waste Generated,5.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_04,Embracing Circularity - Waste Management,Construction & Demolition Waste,5.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_05,Embracing Circularity - Waste Management,Battery Waste Generated,5.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_06,Embracing Circularity - Waste Management,Radioactive Waste Generated,5.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_07,Embracing Circularity - Waste Management,Other Hazardous Waste,55.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_08,Embracing Circularity - Waste Management,Other Non-hazardous Waste,5.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_09,Embracing Circularity - Waste Management,Total Waste Generated,160.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_10,Embracing Circularity - Waste Management,Waste Intensity (Adjusted Revenue),6.4,MT/INR Crore,2026-07-14 23:10:48
+2025-26,gb,WST_12,Embracing Circularity - Waste Management,Waste Recycled/Recovered,555.0,MT,2026-07-14 23:10:48
+2025-26,gb,WST_13,Embracing Circularity - Waste Management,Waste Disposed (by Method),55.0,MT,2026-07-14 23:10:48
+2025-26,gb,EMP_02,Enhancing Employee Wellbeing and Safety,Permanent Disabilities,0.0,Number,2026-07-14 23:10:48
+2025-26,gb,EMP_04,Enhancing Employee Wellbeing and Safety,Fatalities,25.0,Number,2026-07-14 23:10:48
+2025-26,gb,GEN_03,Enabling Gender Diversity in Business,POSH Training Coverage,44.0,% of workforce,2026-07-14 23:10:48
+2025-26,gb,GEN_04,Enabling Gender Diversity in Business,POSH Complaints Upheld/Resolved,55.0,Number,2026-07-14 23:10:48
+2025-26,gb,INC_01,Enabling Inclusive Development,Input Sourcing from MSME/Local Suppliers,25.0,% of Total Procurement,2026-07-14 23:10:48
+2025-26,gb,INC_02,Enabling Inclusive Development,Job Creation in Small Towns,55.0,% of New Hires,2026-07-14 23:10:48
+2025-26,gb,FAIR_01,Fairness in Engaging with Customers and Suppliers,Data Breaches involving Customer Data,10.0,% of customer base affected,2026-07-14 23:10:48
+2025-26,gb,OPEN_01,Openness of Business,Concentration of Purchases (Trading Houses/Related Parties),10.0,%,2026-07-14 23:10:48
+2025-26,gb,OPEN_02,Openness of Business,Concentration of Sales (Trading Houses/Related Parties),10.0,%,2026-07-14 23:10:48
+2025-26,gb,OPEN_03,Openness of Business,Related Party Transactions (RPT) - Purchases,22.0,% of Total,2026-07-14 23:10:48
+2025-26,gb,OPEN_04,Openness of Business,RPT - Sales,12.0,% of Total,2026-07-14 23:10:48
+2025-26,gb,OPEN_05,Openness of Business,RPT - Loans & Advances,1.0,% of Total,2026-07-14 23:10:48
+2025-26,gb,OPEN_06,Openness of Business,RPT - Investments,2.0,% of Total,2026-07-14 23:10:48
+2025-26,Vigros,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,74.0,tCO2e,2026-07-14 23:19:44
+2025-26,Vigros,GHG_02,Greenhouse Gas (GHG) Footprint,Scope 2 Emissions,98.0,tCO2e,2026-07-14 23:19:44
+2025-26,Vigros,GHG_03,Greenhouse Gas (GHG) Footprint,GHG Intensity (Adjusted Revenue),2.2933,tCO2e/INR Crore,2026-07-14 23:19:44
+2025-26,Vigros,GHG_04,Greenhouse Gas (GHG) Footprint,GHG Intensity (Physical Output),0.0,tCO2e/Unit,2026-07-14 23:19:44
+2025-26,Vigros,WAT_01,Water Footprint,Total Water Consumption,25000.0,KL,2026-07-14 23:19:44
+2025-26,Vigros,WAT_02,Water Footprint,Water Intensity (Adjusted Revenue),333.3333,KL/INR Crore,2026-07-14 23:19:44
+2025-26,Vigros,WAT_03,Water Footprint,Water Intensity (Physical Output),0.0033,KL/Unit,2026-07-14 23:19:44
+2025-26,Vigros,WAT_04,Water Footprint,Water Discharge (by Treatment Level),4000.0,KL,2026-07-14 23:19:44
+2025-26,Vigros,EN_01,Energy Footprint,Total Energy Consumption,650.0,Joules,2026-07-14 23:19:44
+2025-26,Vigros,EN_03,Energy Footprint,Energy Intensity (Adjusted Revenue),8.6667,Joules/INR Crore,2026-07-14 23:19:44
+2025-26,Vigros,WST_01,Embracing Circularity - Waste Management,Plastic Waste Generated,25.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_02,Embracing Circularity - Waste Management,E-waste Generated,25.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_03,Embracing Circularity - Waste Management,Bio-medical Waste Generated,25.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_04,Embracing Circularity - Waste Management,Construction & Demolition Waste,25.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_05,Embracing Circularity - Waste Management,Battery Waste Generated,44.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_06,Embracing Circularity - Waste Management,Radioactive Waste Generated,4.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_07,Embracing Circularity - Waste Management,Other Hazardous Waste,45.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_08,Embracing Circularity - Waste Management,Other Non-hazardous Waste,44.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_09,Embracing Circularity - Waste Management,Total Waste Generated,237.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_10,Embracing Circularity - Waste Management,Waste Intensity (Adjusted Revenue),3.16,MT/INR Crore,2026-07-14 23:19:44
+2025-26,Vigros,WST_12,Embracing Circularity - Waste Management,Waste Recycled/Recovered,40.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,WST_13,Embracing Circularity - Waste Management,Waste Disposed (by Method),21.0,MT,2026-07-14 23:19:44
+2025-26,Vigros,EMP_02,Enhancing Employee Wellbeing and Safety,Permanent Disabilities,0.0,Number,2026-07-14 23:19:44
+2025-26,Vigros,EMP_04,Enhancing Employee Wellbeing and Safety,Fatalities,2.0,Number,2026-07-14 23:19:44
+2025-26,Vigros,GEN_03,Enabling Gender Diversity in Business,POSH Training Coverage,20.0,% of workforce,2026-07-14 23:19:44
+2025-26,Vigros,GEN_04,Enabling Gender Diversity in Business,POSH Complaints Upheld/Resolved,2.0,Number,2026-07-14 23:19:44
+2025-26,Vigros,INC_01,Enabling Inclusive Development,Input Sourcing from MSME/Local Suppliers,58.0,% of Total Procurement,2026-07-14 23:19:44
+2025-26,Vigros,INC_02,Enabling Inclusive Development,Job Creation in Small Towns,5.0,% of New Hires,2026-07-14 23:19:44
+2025-26,Vigros,FAIR_01,Fairness in Engaging with Customers and Suppliers,Data Breaches involving Customer Data,57.0,% of customer base affected,2026-07-14 23:19:44
+2025-26,Vigros,OPEN_01,Openness of Business,Concentration of Purchases (Trading Houses/Related Parties),58.0,%,2026-07-14 23:19:44
+2025-26,Vigros,OPEN_02,Openness of Business,Concentration of Sales (Trading Houses/Related Parties),4.0,%,2026-07-14 23:19:44
+2025-26,Vigros,OPEN_03,Openness of Business,Related Party Transactions (RPT) - Purchases,5.0,% of Total,2026-07-14 23:19:44
+2025-26,Vigros,OPEN_04,Openness of Business,RPT - Sales,5.0,% of Total,2026-07-14 23:19:44
+2025-26,Vigros,OPEN_05,Openness of Business,RPT - Loans & Advances,54.0,% of Total,2026-07-14 23:19:44
+2025-26,Vigros,OPEN_06,Openness of Business,RPT - Investments,44.0,% of Total,2026-07-14 23:19:44
+2025-26,vigros,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,111.0,tCO2e,2026-07-14 23:46:30
+2025-26,vigros,GHG_02,Greenhouse Gas (GHG) Footprint,Scope 2 Emissions,32.0,tCO2e,2026-07-14 23:46:30
+2025-26,vigros,GHG_03,Greenhouse Gas (GHG) Footprint,GHG Intensity (Adjusted Revenue),5.72,tCO2e/INR Crore,2026-07-14 23:46:30
+2025-26,vigros,GHG_04,Greenhouse Gas (GHG) Footprint,GHG Intensity (Physical Output),2.2698,tCO2e/Unit,2026-07-14 23:46:30
+2025-26,vigros,WAT_01,Water Footprint,Total Water Consumption,25.0,KL,2026-07-14 23:46:30
+2025-26,vigros,WAT_02,Water Footprint,Water Intensity (Adjusted Revenue),1.0,KL/INR Crore,2026-07-14 23:46:30
+2025-26,vigros,WAT_03,Water Footprint,Water Intensity (Physical Output),0.3968,KL/Unit,2026-07-14 23:46:30
+2025-26,vigros,WAT_04,Water Footprint,Water Discharge (by Treatment Level),12.0,KL,2026-07-14 23:46:30
+2025-26,vigros,EN_01,Energy Footprint,Total Energy Consumption,25.0,Joules,2026-07-14 23:46:30
+2025-26,vigros,EN_03,Energy Footprint,Energy Intensity (Adjusted Revenue),1.0,Joules/INR Crore,2026-07-14 23:46:30
+2025-26,vigros,WST_01,Embracing Circularity - Waste Management,Plastic Waste Generated,52.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_02,Embracing Circularity - Waste Management,E-waste Generated,45.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_03,Embracing Circularity - Waste Management,Bio-medical Waste Generated,445.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_04,Embracing Circularity - Waste Management,Construction & Demolition Waste,5.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_06,Embracing Circularity - Waste Management,Radioactive Waste Generated,5.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_07,Embracing Circularity - Waste Management,Other Hazardous Waste,5.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_08,Embracing Circularity - Waste Management,Other Non-hazardous Waste,5.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_09,Embracing Circularity - Waste Management,Total Waste Generated,562.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_10,Embracing Circularity - Waste Management,Waste Intensity (Adjusted Revenue),22.48,MT/INR Crore,2026-07-14 23:46:30
+2025-26,vigros,WST_12,Embracing Circularity - Waste Management,Waste Recycled/Recovered,25.0,MT,2026-07-14 23:46:30
+2025-26,vigros,WST_13,Embracing Circularity - Waste Management,Waste Disposed (by Method),5.0,MT,2026-07-14 23:46:30
+2025-26,vigros,EMP_02,Enhancing Employee Wellbeing and Safety,Permanent Disabilities,0.0,Number,2026-07-14 23:46:30
+2025-26,vigros,EMP_04,Enhancing Employee Wellbeing and Safety,Fatalities,1.0,Number,2026-07-14 23:46:30
+2025-26,vg,GHG_01,Greenhouse Gas (GHG) Footprint,Scope 1 Emissions,114.0,tCO2e,2026-07-14 23:51:27
+2025-26,vg,GHG_02,Greenhouse Gas (GHG) Footprint,Scope 2 Emissions,25.0,tCO2e,2026-07-14 23:51:27
+2025-26,vg,GHG_03,Greenhouse Gas (GHG) Footprint,GHG Intensity (Adjusted Revenue),2.6731,tCO2e/INR Crore,2026-07-14 23:51:27
+2025-26,vg,GHG_04,Greenhouse Gas (GHG) Footprint,GHG Intensity (Physical Output),0.0001,tCO2e/Unit,2026-07-14 23:51:27
+2025-26,vg,WAT_01,Water Footprint,Total Water Consumption,25.0,KL,2026-07-14 23:51:27
+2025-26,vg,WAT_02,Water Footprint,Water Intensity (Adjusted Revenue),0.4808,KL/INR Crore,2026-07-14 23:51:27
+2025-26,vg,WAT_03,Water Footprint,Water Intensity (Physical Output),0.0,KL/Unit,2026-07-14 23:51:27
+2025-26,vg,WAT_04,Water Footprint,Water Discharge (by Treatment Level),45.0,KL,2026-07-14 23:51:27

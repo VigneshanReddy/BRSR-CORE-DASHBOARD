@@ -1,0 +1,310 @@
+{
+  "schema_name": "SEBI BRSR Core KPI Schema",
+  "version": "1.0.0",
+  "standard_authority": "SEBI",
+  "pillars": [
+    {
+      "pillar_id": "P1",
+      "pillar_name": "GHG Footprint",
+      "regulatory_reference": "Principle 6 Essential Q7",
+      "variables": [
+        {
+          "id": "scope_1_emissions",
+          "name": "Total Scope 1 Emissions",
+          "unit": "Metric tonnes of CO2 equivalent",
+          "required": true
+        },
+        {
+          "id": "scope_2_emissions",
+          "name": "Total Scope 2 Emissions",
+          "unit": "Metric tonnes of CO2 equivalent",
+          "required": true
+        },
+        {
+          "id": "baseline_revenue",
+          "name": "Total Revenue from Operations",
+          "unit": "Currency",
+          "required": true
+        },
+        {
+          "id": "ppp_multiplier",
+          "name": "Purchasing Power Parity Multiplier",
+          "unit": "Ratio",
+          "required": true
+        }
+      ]
+    },
+    {
+      "pillar_id": "P2",
+      "pillar_name": "Water Footprint",
+      "regulatory_reference": "Principle 6 Essential Q3 & Q4",
+      "variables": [
+        {
+          "id": "water_withdrawal_total",
+          "name": "Total Water Withdrawal by Source",
+          "unit": "Kilolitres",
+          "required": true
+        },
+        {
+          "id": "water_consumption_total",
+          "name": "Total Water Consumption",
+          "unit": "Kilolitres",
+          "required": true
+        },
+        {
+          "id": "water_discharge_treated",
+          "name": "Total Water Discharged by Treatment Tier",
+          "unit": "Kilolitres",
+          "required": true
+        }
+      ]
+    },
+    {
+      "pillar_id": "P3",
+      "pillar_name": "Energy Footprint",
+      "regulatory_reference": "Principle 6 Essential Q1",
+      "variables": [
+        {
+          "id": "total_energy_consumed",
+          "name": "Total Energy Consumption",
+          "unit": "Joules",
+          "required": true
+        },
+        {
+          "id": "renewable_energy_split",
+          "name": "Energy Consumed from Renewable Sources",
+          "unit": "Joules",
+          "required": true
+        },
+        {
+          "id": "non_renewable_energy_split",
+          "name": "Energy Consumed from Non-Renewable Sources",
+          "unit": "Joules",
+          "required": true
+        },
+        {
+          "id": "purchased_electricity",
+          "name": "Total Purchased Electricity",
+          "unit": "Joules",
+          "required": true
+        }
+      ]
+    },
+    {
+      "pillar_id": "P4",
+      "pillar_name": "Waste Management",
+      "regulatory_reference": "Principle 6 Essential Q9",
+      "variables": [
+        {
+          "id": "plastic_waste",
+          "name": "Plastic Waste Generated",
+          "unit": "Metric tonnes",
+          "required": true
+        },
+        {
+          "id": "e_waste",
+          "name": "E-waste Generated",
+          "unit": "Metric tonnes",
+          "required": true
+        },
+        {
+          "id": "bio_medical_waste",
+          "name": "Bio-medical Waste Generated",
+          "unit": "Metric tonnes",
+          "required": true
+        },
+        {
+          "id": "construction_demolition_waste",
+          "name": "C&D Waste Generated",
+          "unit": "Metric tonnes",
+          "required": true
+        },
+        {
+          "id": "battery_waste",
+          "name": "Battery Waste Generated",
+          "unit": "Metric tonnes",
+          "required": true
+        },
+        {
+          "id": "radioactive_waste",
+          "name": "Radioactive Waste Generated",
+          "unit": "Metric tonnes",
+          "required": true
+        },
+        {
+          "id": "hazardous_waste",
+          "name": "Hazardous Waste Generated",
+          "unit": "Metric tonnes",
+          "required": true
+        },
+        {
+          "id": "non_hazardous_waste",
+          "name": "Non-hazardous Waste Generated",
+          "unit": "Metric tonnes",
+          "required": true
+        }
+      ]
+    },
+    {
+      "pillar_id": "P5",
+      "pillar_name": "Employee Wellbeing & Safety",
+      "regulatory_reference": "Principle 3 Essential Q1(c) & Q11",
+      "variables": [
+        {
+          "id": "wellbeing_spend_percentage",
+          "name": "Wellbeing Spending as % of Revenue",
+          "unit": "Percentage",
+          "required": true
+        },
+        {
+          "id": "total_working_hours",
+          "name": "Total Person-Hours Worked",
+          "unit": "Hours",
+          "required": true
+        },
+        {
+          "id": "ltifr",
+          "name": "Lost Time Injury Frequency Rate",
+          "unit": "Injuries per million hours",
+          "required": true
+        },
+        {
+          "id": "permanent_disabilities",
+          "name": "Number of Permanent Disabilities",
+          "unit": "Count",
+          "required": true
+        },
+        {
+          "id": "fatalities",
+          "name": "Number of Fatalities",
+          "unit": "Count",
+          "required": true
+        }
+      ]
+    },
+    {
+      "pillar_id": "P6",
+      "pillar_name": "Gender Diversity",
+      "regulatory_reference": "Principle 5 Essential Q3(b) & Q7",
+      "variables": [
+        {
+          "id": "female_gross_wages",
+          "name": "Gross Wages Paid to Females",
+          "unit": "Currency",
+          "required": true
+        },
+        {
+          "id": "total_gross_wages",
+          "name": "Total Gross Wages Paid",
+          "unit": "Currency",
+          "required": true
+        },
+        {
+          "id": "posh_complaints_reported",
+          "name": "Total POSH Complaints Reported",
+          "unit": "Count",
+          "required": true
+        },
+        {
+          "id": "posh_complaints_upheld",
+          "name": "Total POSH Complaints Upheld",
+          "unit": "Count",
+          "required": true
+        }
+      ]
+    },
+    {
+      "pillar_id": "P7",
+      "pillar_name": "Inclusive Development",
+      "regulatory_reference": "Principle 8 Essential Q4 & Q5",
+      "variables": [
+        {
+          "id": "msme_procurement_value",
+          "name": "Value of Procurement from MSMEs",
+          "unit": "Currency",
+          "required": true
+        },
+        {
+          "id": "total_purchase_value",
+          "name": "Total Purchase Value",
+          "unit": "Currency",
+          "required": true
+        },
+        {
+          "id": "geographic_wage_rural",
+          "name": "Wages Paid in Rural Areas",
+          "unit": "Percentage of total wage cost",
+          "required": true
+        },
+        {
+          "id": "geographic_wage_semi_urban",
+          "name": "Wages Paid in Semi-urban Areas",
+          "unit": "Percentage of total wage cost",
+          "required": true
+        }
+      ]
+    },
+    {
+      "pillar_id": "P8",
+      "pillar_name": "Fairness in Engagement",
+      "regulatory_reference": "Principle 9 Essential Q7 & Principle 1 Essential Q8",
+      "variables": [
+        {
+          "id": "accounts_payable_days",
+          "name": "Number of Days of Accounts Payable",
+          "unit": "Days",
+          "required": true
+        },
+        {
+          "id": "data_breach_instances",
+          "name": "Number of Data Breach Instances",
+          "unit": "Count",
+          "required": true
+        },
+        {
+          "id": "pii_breach_percentage",
+          "name": "Percentage of Breaches involving PII",
+          "unit": "Percentage",
+          "required": true
+        }
+      ]
+    },
+    {
+      "pillar_id": "P9",
+      "pillar_name": "Openness of Business",
+      "regulatory_reference": "Principle 1 Essential Q9",
+      "variables": [
+        {
+          "id": "trading_house_concentration",
+          "name": "Concentration of Purchases from Trading Houses",
+          "unit": "Percentage",
+          "required": true
+        },
+        {
+          "id": "rpt_purchase_percentage",
+          "name": "Share of RPTs in Total Purchases",
+          "unit": "Percentage",
+          "required": true
+        },
+        {
+          "id": "rpt_sales_percentage",
+          "name": "Share of RPTs in Total Sales",
+          "unit": "Percentage",
+          "required": true
+        },
+        {
+          "id": "rpt_loans_advances",
+          "name": "Share of RPTs in Loans and Advances",
+          "unit": "Percentage",
+          "required": true
+        },
+        {
+          "id": "rpt_investments",
+          "name": "Share of RPTs in Total Investments",
+          "unit": "Percentage",
+          "required": true
+        }
+      ]
+    }
+  ]
+}
