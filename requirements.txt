@@ -3,3 +3,6 @@ pandas
 plotly
 openpyxl
 fpdf2
+streamlit
+pandas
+xlsxwriter
